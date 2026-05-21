@@ -104,6 +104,8 @@ The main objective of this project is to:
 📌 Aspiring Data Analyst  
 📌 Skilled in Excel, SQL, Power BI & Dashboard Design  
 
+This Excel dashboard project focuses on sales analysis, business insights, data visualization, KPI tracking, and customer analytics using Microsoft Excel.
+
 ---
 
 # ⭐ If you liked this project

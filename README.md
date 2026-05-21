@@ -40,7 +40,7 @@ The dashboard helps analyze:
 
 # 📷 Dashboard Preview
 
-![Dashboard](Dashboard%20Screenshot/dashboard.png)
+![Dashboard](DashboardScreenshot.png)
 
 ---
 
